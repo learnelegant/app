@@ -36,6 +36,6 @@ Power Users: Access root directories, customize system files, and enhance device
 Translators: Quickly translate applications for different languages and regions.
 Casual Users: Manage files, archives, and media with a smooth and powerful file manager.
 Getting Started
-Download the APK: Visit the official MT Manager website to get the latest version: https://mtmanagerr.com/
+Download the APK: Visit the official MT Manager website to get the latest version: https://mtmanager.net/
 Install: Enable installation from unknown sources if prompted, then follow the on-screen instructions to install.
 Explore: Open the app and start exploring the extensive features to make the most out of your Android device.
